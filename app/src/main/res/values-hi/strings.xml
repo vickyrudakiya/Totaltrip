@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">यात्रा ऐप</string>
+    <string name="Instructione">ग्राहक स्वयं बहुत महत्वपूर्ण होना चाहिए,\nवह अभिजात वर्ग की कोचिंग का पालन करेगा.\nहमेशा
+            लेकिन जीवन की संपत्ति\"</string>
+
+    <style name="LoginTextInputOuterFieldStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/_10sdp</item>
+    </style>
+
+    <style name="LoginTextInputInnerFieldStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/black</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+</resources>

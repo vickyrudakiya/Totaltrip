@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#aaa</color>
+    <color name="mainGreen">#4e4e4e</color>
+    <color name="DarkGreen">#747474</color>
+    <color name="appColor">#e85c4d</color>
+    <color name="Button">#e85c4d</color>
+    <color name="light">#e6dedc</color>
+    <!--    <color name="dark">#146C94</color>-->
+    <color name="dark">#747474</color>
+    <color name="test1">#03323c</color>
+    <color name="test2">#063b49</color>
+
+
+</resources>
